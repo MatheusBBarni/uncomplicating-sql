@@ -243,4 +243,4 @@ FROM silver.olist.item_pedido
 
 GROUP BY idProduto
 
-ORDER BY qtdVenda DESC
+ORDER BY vlReceita DESC
